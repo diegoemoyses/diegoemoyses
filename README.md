@@ -1,6 +1,6 @@
 Mainframe Assembly
 ### 
-<img src="https://www.psrinfo.com/wp-content/uploads/2023/04/IBM-Z14.jpg" alt="IBM Z14">
+<img src="" alt="IBM Z14">
 
 <div align="center">
   <a href="https://github.com/diegoemoyses">
