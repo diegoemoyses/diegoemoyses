@@ -1,6 +1,6 @@
 Mainframe Assembly
 ### 
-<img src="" alt="IBM Z14">
+<img src="https://github.com/diegoemoyses/diegoemoyses/blob/main/IBM-Z14-removebg-preview.png" alt="IBM Z14">
 
 <div align="center">
   <a href="https://github.com/diegoemoyses">
