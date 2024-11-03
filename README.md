@@ -1,10 +1,11 @@
-
+  ### Olá! Meu nome é Diego Eduardo Moysés e trabalho com a plataforma Mainframe IBM desde 2011.
+  <br>
 <div align="center">
 <img src="https://github.com/diegoemoyses/diegoemoyses/blob/main/IBM-Z14-removebg-preview.png" alt="IBM Z14" width="50" height="50">
 <img src="https://github.com/diegoemoyses/diegoemoyses/blob/main/cobol_dino-removebg-preview.png" alt="Dino COBOL" width="50" height="50">
 <img src="https://github.com/diegoemoyses/diegoemoyses/blob/main/3270_icon-removebg-preview.png" alt="3270" width="50" height="50">
 </div>
- 
+ <br>
 <br>
 <div align="center">
   <a href="https://github.com/diegoemoyses">
@@ -16,4 +17,8 @@
 <div align="left">  
 Repositórios:
  <p></p>
-<a href="https://github.com/diegoemoyses/Mainframe-Assembly">Mainframe-Assembly</a>
+  - <a href="https://github.com/diegoemoyses/Mainframe-Assembly">Mainframe-Assembly</a>
+  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L ><br>
