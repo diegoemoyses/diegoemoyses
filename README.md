@@ -34,7 +34,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RC 0 se houver registros.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RC 0099 se estiver vazio.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[21/11/2024] - Otimização do código.<br><br>
- * <a href="https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/ESTATI01.md">ESTATI01.asm</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [21/12/2024] - Programa em Assembly para Mainframe para calcular as medias de tendências centrais.<br><br>
+ * <a href="https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/ESTATI01.md">ESTATI01.asm</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [21/12/2024] - Programa em Assembly para calcular as medidas de tendências centrais(moda, mediana e média).<br><br>
 </div>
 
 
