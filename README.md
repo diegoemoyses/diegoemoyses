@@ -22,7 +22,7 @@
 <b>Repositórios:</b>
 <div align="left">  
  <br>  
-<a href="https://github.com/diegoemoyses/Mainframe-Assembly">Mainframe-Assembly</a><br>
+<a href="https://github.com/diegoemoyses/Mainframe-Assembly/edit/main/README.md">Mainframe-Assembly</a><br>
  <br>
 
  
