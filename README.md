@@ -29,17 +29,12 @@
   
   
   
- * <a href="https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/PASMBLN1.md">PASMBLN1.asm</a>&nbsp;&nbsp;&nbsp; - [25/02/2025] - Programa em Assembly Mainframe de Balance Line com ou sem correspondentes.<br><br>
- * <a href="https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/ESTATI01.md">ESTATI01.asm</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [21/12/2024] - Programa em Assembly para calcular as medidas de tendências centrais(moda, mediana e média).<br><br>
- * <a href="https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/CONTDSN.asm">CONTDSN.asm</a>&nbsp;&nbsp;&nbsp; - [16/11/2024] - Verifica a quantidade de registros no dsn  em ARQ e exibe o valor em SYSPRINT.<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RC 0 se houver registros.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RC 0099 se estiver vazio.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[21/11/2024] - Otimização do código.<br><br>
-* <a href="https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/ASMPLOOP.asm">ASMPLOOP.asm</a>&nbsp; - [12/11/2024] - Loop contando até 10 e gravando o digito corrente no cartão SAIDA.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[20/11/2024] - Otimização do código.<br><br>
- * <a href="https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/ASMP0503.asm">ASMP0503.asm</a>&nbsp;&nbsp; - [04/11/2024] - Lê dados apartir do cartão ENTRADA e exibe no cartão SAIDA.<br><br>
- * <a href="https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/ASMPARM1.asm">ASMPARM1.asm</a> - [03/11/2024] - Programa que recebe parâmetro via PARM do jcl e emite no WTO.<br><br>
- * <a href="https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/ASMP0500.asm">ASMP0500.asm</a>&nbsp;&nbsp; - [01/11/2024] - Simples Hello World em Assembly.<br><br>
+ * <a href="https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/PASMBLN1.md">PASMBLN1.asm</a>&nbsp;&nbsp;&nbsp; - Balance Line com ou sem correspondentes.<br><br>
+ * <a href="https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/ESTATI01.md">ESTATI01.asm</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Calcular as medidas de tendências centrais(moda, mediana e média).<br><br>
+ * <a href="https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/CONTDSN.asm">CONTDSN.asm</a>&nbsp;&nbsp;&nbsp; - Verifica a quantidade de registros no dsn  em ARQ e exibe o valor em SYSPRINT.<br><br> 
+ * <a href="https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/ASMP0503.asm">ASMP0503.asm</a>&nbsp;&nbsp; - Lê dados apartir do cartão ENTRADA e exibe no cartão SAIDA.<br><br>
+ * <a href="https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/ASMPARM1.asm">ASMPARM1.asm</a> - Recebe parâmetro via PARM do jcl e emite no WTO.<br><br>
+ * <a href="https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/ASMP0500.asm">ASMP0500.asm</a>&nbsp;&nbsp; - Simples Hello World em Assembly.<br><br>
 </div>
 
 
