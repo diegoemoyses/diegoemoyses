@@ -40,10 +40,12 @@
 
 <div align="center">
   <a href="https://github.com/diegoemoyses">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoemoyses&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoemoyses&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=diegoemoyses&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B&row=2&column=4&margin-w=15](https://github-profile-trophy.vercel.app/?username=diegoemoyses&theme=dracula&row=1&column=4)"/>
   </a>
 </div>
+
+<br>
+
 
 ---
 
