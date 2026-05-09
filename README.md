@@ -51,6 +51,10 @@
 
 ## 🗂️ Projetos em Destaque
 
+### 📚 [CICS](https://github.com/diegoemoyses/CICS)
+
+Guia Prático: [Configurando TOR e AOR com MRO e executando Cobol CICS](https://diegoemoyses.github.io/CICS/TOR-AOR-CONF)
+<br><br>
 ### 📚 [Mainframe Assembly](https://github.com/diegoemoyses/Mainframe-Assembly)
 
 Coleção de programas em Assembly para Mainframe IBM com explicações detalhadas:
