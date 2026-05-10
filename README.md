@@ -69,7 +69,18 @@ Coleção de programas em Assembly para Mainframe IBM com explicações detalhad
 | [**ASMPARM1.asm**](https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/ASMPARM1.asm) | Recebe parâmetro via PARM do JCL e emite no WTO |
 | [**ASMP0500.asm**](https://github.com/diegoemoyses/Mainframe-Assembly/blob/main/ASMP0500.asm) | Hello World em Assembly |
 
+<br>
 
+### 📚 [Cobol](https://github.com/diegoemoyses/COBOL)
+
+| Programa | Descrição |
+|----------|-----------|
+| [**HELLOCIC**](https://github.com/diegoemoyses/COBOL/blob/main/HELLOCIC) | Exibe em qual CICS executou e por qual terminal foi chamado. Utilizado no [guia de confiuração TOR e AOR](https://diegoemoyses.github.io/CICS/TOR-AOR-CONF) 
+
+<br>
+
+
+---
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
