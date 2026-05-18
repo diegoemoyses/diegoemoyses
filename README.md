@@ -51,9 +51,11 @@
 
 ## 🗂️ Projetos em Destaque
 
-### 📚 [CICS](https://github.com/diegoemoyses/CICS)
+### 📚 [CICS & MQ](https://github.com/diegoemoyses/CICS)
 
-Guia Prático: [Configurando TOR e AOR com MRO e executando Cobol CICS](https://diegoemoyses.github.io/CICS/TOR-AOR-CONF)
+[Configurando TOR e AOR com MRO e executando Cobol CICS](https://diegoemoyses.github.io/CICS/TOR-AOR-CONF)
+<br><br>
+[Mensageria com Job Batch, Transação CICS e Trigger](https://diegoemoyses.github.io/CICS/MQ-Batch-CICS-Trigger)
 <br><br>
 ### 📚 [Mainframe Assembly](https://github.com/diegoemoyses/Mainframe-Assembly)
 
@@ -76,9 +78,12 @@ Coleção de programas em Assembly para Mainframe IBM com explicações detalhad
 | Programa | Descrição |
 |----------|-----------|
 | [**HELLOCIC**](https://github.com/diegoemoyses/COBOL/blob/main/HELLOCIC) | Exibe em qual CICS executou e por qual terminal foi chamado. Utilizado no [guia de confiuração TOR e AOR](https://diegoemoyses.github.io/CICS/TOR-AOR-CONF) 
-
+| [**MQPUT01B**](https://github.com/diegoemoyses/COBOL/blob/main/MQPUT01B.cob) | Insere mensagem em fila MQ via job batch.
+| [**MQGET01B**](https://github.com/diegoemoyses/COBOL/blob/main/MQGET01B.cob) | Consome mensagem em fila MQ via job batch.
+| [**MQGET02C**](https://github.com/diegoemoyses/COBOL/blob/main/MQGET02C.cob) | Programa online CICS para consumir mensagem em fila MQ.
+| [**MQTRIGON**](https://github.com/diegoemoyses/COBOL/blob/main/MQTRIGON.cob) | Programa online CICS acionado por trigger de fila MQ.
 <br>
-
+https://github.com/diegoemoyses/COBOL/blob/main/MQGET01B.cob
 
 ---
 ## 🛠️ Tecnologias e Ferramentas
