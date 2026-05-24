@@ -84,7 +84,7 @@ Coleção de programas em Assembly para Mainframe IBM com explicações detalhad
 | [**MQGET01B**](https://github.com/diegoemoyses/COBOL/blob/main/MQGET01B.cob) | Consome mensagem em fila MQ via job batch.
 | [**MQGET02C**](https://github.com/diegoemoyses/COBOL/blob/main/MQGET02C.cob) | Programa online CICS para consumir mensagem em fila MQ.
 | [**MQTRIGON**](https://github.com/diegoemoyses/COBOL/blob/main/MQTRIGON.cob) | Programa online CICS acionado por trigger de fila MQ.
-| [**MQRESWIN.**](https://github.com/diegoemoyses/COBOL/blob/main/MQTRIGON.cob) | Programa online CICS utilizado em [Integrando Mainframe e Plataforma x86 com IBM MQ](https://diegoemoyses.github.io/CICS/MQ-MF-x86)
+| [**MQRESWIN**](https://github.com/diegoemoyses/COBOL/blob/main/MQRESWIN.cob) | Programa online CICS utilizado em [Integrando Mainframe e Plataforma x86 com IBM MQ](https://diegoemoyses.github.io/CICS/MQ-MF-x86)
 <br>
 
 ---
