@@ -56,6 +56,8 @@
 &nbsp;&nbsp; :black_medium_small_square: [Configurando TOR e AOR com MRO e executando Cobol CICS](https://diegoemoyses.github.io/CICS/TOR-AOR-CONF)
 <br><br>
 &nbsp;&nbsp; :black_medium_small_square: [Mensageria com Job Batch, Transação CICS e Trigger](https://diegoemoyses.github.io/CICS/MQ-Batch-CICS-Trigger)
+<br><br>
+&nbsp;&nbsp; :black_medium_small_square: [Integrando Mainframe e Plataforma x86 com IBM MQ](https://github.com/diegoemoyses/COBOL/blob/main/MQRESWIN.cob)
 <br><br><br>
 ### 📚 [Mainframe Assembly](https://github.com/diegoemoyses/Mainframe-Assembly)
 
@@ -82,6 +84,7 @@ Coleção de programas em Assembly para Mainframe IBM com explicações detalhad
 | [**MQGET01B**](https://github.com/diegoemoyses/COBOL/blob/main/MQGET01B.cob) | Consome mensagem em fila MQ via job batch.
 | [**MQGET02C**](https://github.com/diegoemoyses/COBOL/blob/main/MQGET02C.cob) | Programa online CICS para consumir mensagem em fila MQ.
 | [**MQTRIGON**](https://github.com/diegoemoyses/COBOL/blob/main/MQTRIGON.cob) | Programa online CICS acionado por trigger de fila MQ.
+| [**MQRESWIN.**](https://github.com/diegoemoyses/COBOL/blob/main/MQTRIGON.cob) | Programa online CICS utilizado em [Integrando Mainframe e Plataforma x86 com IBM MQ](https://github.com/diegoemoyses/COBOL/blob/main/MQRESWIN.cob)
 <br>
 
 ---
