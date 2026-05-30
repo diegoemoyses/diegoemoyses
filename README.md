@@ -72,11 +72,11 @@
 
 ### 📚 [CICS & MQ](https://github.com/diegoemoyses/CICS)
 
-&nbsp;&nbsp; :black_medium_small_square: [Configurando TOR e AOR com MRO e executando Cobol CICS](https://diegoemoyses.github.io/CICS/TOR-AOR-CONF)
+&nbsp;&nbsp; :black_medium_small_square: [Configurando **CICS TOR** e **AOR** com MRO e executando Cobol CICS](https://diegoemoyses.github.io/CICS/TOR-AOR-CONF)
 <br><br>
-&nbsp;&nbsp; :black_medium_small_square: [Mensageria com Job Batch, Transação CICS e Trigger](https://diegoemoyses.github.io/CICS/MQ-Batch-CICS-Trigger)
+&nbsp;&nbsp; :black_medium_small_square: [**Mensageria** com Job Batch, Transação **CICS** e **Trigger** utilizando **MQ**](https://diegoemoyses.github.io/CICS/MQ-Batch-CICS-Trigger)
 <br><br>
-&nbsp;&nbsp; :black_medium_small_square: [Integrando Mainframe e Plataforma x86 com IBM MQ](https://diegoemoyses.github.io/CICS/MQ-MF-x86)
+&nbsp;&nbsp; :black_medium_small_square: [Integrando **Mainframe** e **Plataforma x86** com IBM MQ](https://diegoemoyses.github.io/CICS/MQ-MF-x86)
 <br><br><br>
 ### 📚 [Mainframe Assembly](https://github.com/diegoemoyses/Mainframe-Assembly)
 
