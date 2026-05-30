@@ -37,7 +37,8 @@
 - 🔧 Especialidades: **COBOL, CICS, MQ, JCL, Assembly, z/OS**
 
 
-<br><br>
+<br>
+
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
@@ -51,8 +52,9 @@
 
 </div>
 
----
 
+<!--
+---
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -60,7 +62,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=diegoemoyses&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B&row=2&column=4&margin-w=15](https://github-profile-trophy.vercel.app/?username=diegoemoyses&theme=dracula&row=1&column=4)"/>
   </a>
 </div>
-
+-->
 <br>
 
 
