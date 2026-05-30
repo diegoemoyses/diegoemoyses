@@ -6,6 +6,8 @@
 
 </div>
 
+
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-eduardo-moys%C3%A9s-4a267740/)
@@ -33,6 +35,21 @@
 - 🎓 **Pós-Graduado** em Alta Plataforma Mainframe IBM
 - 💼 **Mais de 15 anos** de experiência com Mainframe
 - 🔧 Especialidades: **COBOL, CICS, MQ, JCL, Assembly, z/OS**
+
+
+<br><br>
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+
+| Mainframe | Linguagens | Middleware | Ferramentas |
+|:---------:|:----------:|:----------:|:-----------:|
+| IBM z/OS | COBOL | CICS | JCL |
+| VSAM | Assembly | MQ | TSO/ISPF |
+| JES2 | REXX |IBM Integration Bus | SDSF |
+| | | | Control-M |
+
+</div>
 
 ---
 
@@ -87,21 +104,7 @@ Coleção de programas em Assembly para Mainframe IBM com explicações detalhad
 | [**MQRESWIN**](https://github.com/diegoemoyses/COBOL/blob/main/MQRESWIN.cob) | Programa online CICS utilizado em [Integrando Mainframe e Plataforma x86 com IBM MQ](https://diegoemoyses.github.io/CICS/MQ-MF-x86)
 <br>
 
----
-## 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-
-| Mainframe | Linguagens | Middleware | Ferramentas |
-|:---------:|:----------:|:----------:|:-----------:|
-| IBM z/OS | COBOL | CICS | JCL |
-| VSAM | Assembly | MQ | TSO/ISPF |
-| JES2 | REXX | | SDSF |
-| | | | Control-M |
-
-</div>
-
----
 
 ## 📫 Contato
 
