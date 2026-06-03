@@ -77,6 +77,8 @@
 &nbsp;&nbsp; :black_medium_small_square: [**Mensageria** com Job Batch, Transação **CICS** e **Trigger** utilizando **MQ**](https://diegoemoyses.github.io/CICS/MQ-Batch-CICS-Trigger)
 <br><br>
 &nbsp;&nbsp; :black_medium_small_square: [Integrando **Mainframe** e **Plataforma x86** com IBM MQ](https://diegoemoyses.github.io/CICS/MQ-MF-x86)
+<br><br>
+&nbsp;&nbsp; :black_medium_small_square: [Consumindo e servindo **API REST** no **Mainframe**](https://diegoemoyses.github.io/CICS/CICS-REST-API)
 <br><br><br>
 ### 📚 [Mainframe Assembly](https://github.com/diegoemoyses/Mainframe-Assembly)
 
@@ -101,9 +103,11 @@ Coleção de programas em Assembly para Mainframe IBM com explicações detalhad
 | [**HELLOCIC**](https://github.com/diegoemoyses/COBOL/blob/main/HELLOCIC) | Exibe em qual CICS executou e por qual terminal foi chamado. Utilizado no [guia de confiuração TOR e AOR](https://diegoemoyses.github.io/CICS/TOR-AOR-CONF) 
 | [**MQPUT01B**](https://github.com/diegoemoyses/COBOL/blob/main/MQPUT01B.cob) | Insere mensagem em fila MQ via job batch.
 | [**MQGET01B**](https://github.com/diegoemoyses/COBOL/blob/main/MQGET01B.cob) | Consome mensagem em fila MQ via job batch.
-| [**MQGET02C**](https://github.com/diegoemoyses/COBOL/blob/main/MQGET02C.cob) | Programa online CICS para consumir mensagem em fila MQ.
+| [**MQGET02C**](https://github.com/diegoemoyses/COBOL/blob/main/MQGET02C.cob) | Consome mensagem em fila MQ com CICS.
 | [**MQTRIGON**](https://github.com/diegoemoyses/COBOL/blob/main/MQTRIGON.cob) | Programa online CICS acionado por trigger de fila MQ.
-| [**MQRESWIN**](https://github.com/diegoemoyses/COBOL/blob/main/MQRESWIN.cob) | Programa online CICS utilizado em [Integrando Mainframe e Plataforma x86 com IBM MQ](https://diegoemoyses.github.io/CICS/MQ-MF-x86)
+| [**MQRESWIN**](https://github.com/diegoemoyses/COBOL/blob/main/MQRESWIN.cob) | Programa utilizado em [Integrando Mainframe e Plataforma x86 com IBM MQ](https://diegoemoyses.github.io/CICS/MQ-MF-x86)
+| [**APISERVE**](https://github.com/diegoemoyses/COBOL/blob/main/APISERVE.cob) | Retorna JSON para api rest - [Consumindo e servindo **API REST** no **Mainframe**](https://diegoemoyses.github.io/CICS/CICS-REST-API)
+| [**TESTGET**](https://github.com/diegoemoyses/COBOL/blob/main/TESTGET.cob) | Consome api rest - [Consumindo e servindo **API REST** no **Mainframe**](https://diegoemoyses.github.io/CICS/CICS-REST-API)
 <br>
 
 
